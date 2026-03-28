@@ -1,5 +1,17 @@
 # ChicCloset
+
+## Project Idea
 ChicCloset provides complete outfit combinations to make daily styling simple and enjoyable!
+
+## Problem Statement
+
+## Proposed Solution
+
+## Tools Used
+
+## How To Access This Project
+
+## Future Features
 
 
 
