@@ -3,15 +3,15 @@
 ## 💡Project Idea
 ChicCloset provides complete outfit combinations to make daily styling simple and enjoyable!
 
-## Problem Statement
+## 📝Problem Statement
 
-## Proposed Solution
+## 🔦Proposed Solution
 
-## Tools Used
+## 🛠️Tools Used
 
-## How To Access This Project
+## 🔐How To Access This Project
 
-## Future Features
+## 🔎Future Features
 
 
 
