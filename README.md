@@ -14,7 +14,18 @@ ChicCloset provides complete outfit combinations to make daily styling simple an
 - Excel:Develop a Gantt Chart that reflects the project schedule.
 ## 🔐 How To Access This Project
 
-## 🔎 Future Features
+## 🔎Features
+- You can look through types of outfits like Casual, Formal, Night and Traditional.
+- Our website shows you outfit ideas that include clothes, shoes and bags.
+- We help you save time by giving you -styled outfits.
+- For each item you can pick the size that fits you.
+- You can see details about each product, like pictures, prices and available sizes.
+- Your delivery address is clearly shown.
+- We show you the price, including tax.
+- You can choose how to pay:
+Cash, on Delivery
+Apple Pay
+- Our website is easy to use and simple to navigate.
 
 ## 📊 Gantt Chart
 This is the Gantt chart for Milestone 1. Click here to view the PDF: [Gantt Chart PDF](GanttChart_Milestone1.pdf)
