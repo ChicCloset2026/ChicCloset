@@ -25,7 +25,7 @@ ChicCloset provides complete outfit combinations to make daily styling simple an
 - You can choose how to pay:
 Cash, on Delivery
 Apple Pay
-- Our website is easy to use and simple to navigate.
+- Our website is easy to navigate and simple to use .
 
 ## 📊 Gantt Chart
 This is the Gantt chart for Milestone 1. Click here to view the PDF: [Gantt Chart PDF](GanttChart_Milestone1.pdf)
