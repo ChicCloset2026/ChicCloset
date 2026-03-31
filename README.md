@@ -1,6 +1,6 @@
 # ChicCloset
 
-## 💡Project Idea
+## 💡 Project Idea
 ChicCloset is a web-based platform that provides ready made, coordinated outfits for different occasions, helping users find complete looks quickly and easily
 
 ## 📝 Problem with Fashion Choices
