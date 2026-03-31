@@ -1,17 +1,23 @@
 # ChicCloset
 
 ## 💡Project Idea
-ChicCloset provides complete outfit combinations to make daily styling simple and enjoyable!
+ChicCloset provides complete outfit combinations to make daily styling simple and enjoyable.
 
-## 📝 Problem Statement
+## 📝 Problem with Fashion Choices
+Women often have a hard time choosing clothing for different occasions. When trying to choose each item, many times it takes too long and can be very frustrating for women who lead busy lives or are not confident about their fashion sense !
 
-## 🔦 Proposed Solution
+## 🔦 ChicCloset is the Solution
+ChicCloset makes it easy to find clothes by offering coordinated sets of clothes for every occasion All you need to do is browse and buy the women’s clothing set that you are looking for quickly. ChicCloset also offers outfits for casual, vacation, and formal events, which means that you don’t have to waste time searching online.
+
+## 📌 Target Market
+ChicCloset’s primary target market is busy women ages 18 to 35 (such as students/young professionals and anyone else who is constantly on-the-go) that require different outfits for social, work, and/or travel. ChicCloset helps busy women look good by providing stylish options that help them save time.
 
 ## 🛠️ Tools Used
 - pycharm:We used HTML code and CSS for all project pages.
 - GitHub:Project repository for documentation, and storage of design files and ReadMe.
 - FlutterFlow:Create an interactive prototype for each of the app screens.
 - Excel:Develop a Gantt Chart that reflects the project schedule.
+
 ## 🔐 How To Access This Project
 
 ## 🔎Features
