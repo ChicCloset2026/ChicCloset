@@ -20,7 +20,7 @@ ChicCloset’s primary target market is busy women ages 18 to 35 (such as studen
 
 ## 🔐 How To Access This Project
 
-## 🔎Features
+## 🔎 Features
 - You can look through types of outfits like Casual, Formal, Night and Traditional.
 - Our website shows you outfit ideas that include clothes, shoes and bags.
 - We help you save time by giving you -styled outfits.
