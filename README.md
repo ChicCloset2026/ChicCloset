@@ -1,33 +1,79 @@
-ChicCloset
+# 👗 ChicCloset
+Your Ultimate Style Curator
 
-💡 Project Idea
+---
 
-ChicCloset is a web-based platform that provides ready made, coordinated outfits for different occasions, helping users find complete looks quickly and easily
-📝 Problem with Fashion Choices
+## 💡 Project Vision
+ChicCloset is a busy woman’s best friend in a form of a web app where "Decision Fatigue" is getting treated. We are not your standard e-commerce site that just sells you individual pieces, we sell professionally styled outfits, so you can shop a full look in seconds.
 
-Women often have a hard time choosing clothing for different occasions. When trying to choose each item, many times it takes too long and can be very frustrating for women who lead busy lives or are not confident about their fashion sense !
-🔦 ChicCloset is the Solution
+---
 
-ChicCloset makes it easy to find clothes by offering coordinated sets of clothes for every occasion All you need to do is browse and buy the women’s clothing set that you are looking for quickly. ChicCloset also offers outfits for casual, vacation, and formal events, which means that you don’t have to waste time searching online.
-📌 Target Market
+## 🎨 UI Design Decisions
+We made the following core design decisions to give ChicCloset a high-end, trusted fashion feel:
 
-ChicCloset’s primary target market is busy women ages 18 to 35 (such as students/young professionals and anyone else who is constantly on-the-go) that require different outfits.
-🛠️ Tools Used
+* Color Palette: A soft, feminine, and neutral color palette was chosen to complement the aesthetics of high fashion and not overpower the product imagery.
+* Typography: For the styling and workings of the typography, We combined Playfair Display ( used for luxury, elegant headings) and Poppins ( used for clean, readable body text) and found the perfect balance of style and usability.
+* Visual Structure: Using a combination of rounded cards and white space allowed us to design a clean, modern and airy shopping experience that is not overbearingly cluttered for the eyes.
+* Simplified Navigation: The UI has been created straight up minimal with a top bar to unobtrusively guide the user-thinking from landing to checkout. 
+## 📸 Screenshots
+*(Note: Upload your images to an 'assets' folder and link to them here)*
+* [Home Page Placeholder]
+* [Product Details Placeholder]
+* [Shopping Cart Placeholder]
+* [Checkout Page Placeholder]
 
-pycharm:We used HTML code and CSS for all project pages.
-GitHub:Project repository for documentation, and storage of design files and ReadMe.
-FlutterFlow:Create an interactive prototype for each of the app screens.
-Excel:Develop a Gantt Chart that reflects the project schedule.
+## ✏️ Wireframes & Prototyping (UI/UX Evidence)
+The development of the project was started with the high-fidelity prototyping that leads to an easy to use and visually attractive interface:
+* Prototyping Tool: Made with FlutterFlow, based on page and component consistency, focus on transition animations.
+* Design Goal: To represent the "Complete Look" idea visually prior to HTML/CSS implementation.--- 
 
-🔎 Features
+## 🔄 User Flow (The Shopping Journey)
+We have diagrammed the user journey in 7 simple stages to guarantee a smooth experience:
+1. Access: User arrives at home and is nested in collections.
+2. Browsing: User visits different tabs on a single page (no reloads).
+3. Choose: User picks a look to see detailed styling and cover complementing solutions.
+4. Customization: The user specifies the size for every article in the set.
+5. Your Cart: User View and your responsive persistent cart (localStorage) Tax Inclusive Pricing.
+6. AUTH: User signs in with Email, Google or Apple to secure their order.
+7. Place Order: User verifies shipping information and places the order using Apple Pay or COD.
 
-You can look through types of outfits like Casual, Formal, Night and Traditional.
-Our website shows you outfit ideas that include clothes, shoes and bags.
-We help you save time by giving you -styled outfits.
-For each item you can pick the size that fits you.
-You can see details about each product, like pictures, prices and available sizes.
-Your delivery address is clearly shown.
-We show you the price, including tax.
-You can choose how to pay: Cash, on Delivery Apple Pay
-Our website is easy to navigate and simple to use .
-Users can log in in several ways, either by email, using Google or Apple, creating a new account or resetting their password if necessary
+---
+
+## 🧠 UX Considerations
+* Fewer Steps: When you group related items, it takes fewer clicks to complete an entire look.
+* Decision Aid: Pre-styled sets take the hassle of matching separate articles.
+* Check: (Regex) form validating in real-time prevent you from submitting the wrong info at checkout.
+* Recuperate: Simple navigation and password recovery options make sure the User isn’t left wondering.
+
+---
+
+## Accessibility and inclusivity ♿️
+Nothing was done to make the usability take SECOND priority to anything else!
+* Readability: increased contrast and clearer font (poppins) enhances the visibility of the content.
+* Interactivity: Buttons and other interactive elements should be large enough to associate finger contact with a minimum visual target area of 44px by 44px. * Semantic HTML: Proper headings and other tags should be used so that screen readers can interpret.
+* Sensible Designs: They are non-technical friendly and they make you easier to use you. 
+
+## Tech Stack & Tools 🛠️
+* Frontend: HTML5, CSS3, Javascript (ES6+)
+* Libraries: Font Awesome 6.5 (Icon), Google Fonts API
+* Prototyping: FlutterFlow
+* Environment: PyCharm, GitHub
+* Planning: Microsoft Excel (Gantt Chart for Schedule) 
+
+---
+
+## 🔎 Core Features
+* Visual Categories: Casual, Formal, Night and Traditional Saudi Dress.
+* Full Look Details: Clothing, shoes and bags all in one view.
+* Smart Sizing: Select a different size for each part.
+* Dynamic Checkout: Calculation of price and display of delivery address in real time.
+* * Secure Auth: Support multiple login methods and account management.
+
+---
+
+## 📩 Team & Support
+Revamped for the Web Business Applications course by the ChicCloset Team (Section 3202).
+* Instructor Dr Walaa Hassan
+
+---
+*ChicCloset: Created for the contemporary female who loves herself as much as she loves style.*
