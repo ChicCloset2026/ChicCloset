@@ -16,7 +16,7 @@ We made the following core design decisions to give ChicCloset a high-end, trust
 * Visual Structure: Using a combination of rounded cards and white space allowed us to design a clean, modern and airy shopping experience that is not overbearingly cluttered for the eyes.
 * Simplified Navigation: The UI has been created straight up minimal with a top bar to unobtrusively guide the user-thinking from landing to checkout. 
 ## 📸 Screenshots
-[View ChicCloset Interface Screenshots (PDF)](assets/Screenshotes.pdf)
+[📄 Click here to view Screenshots.pdf](Screenshots.pdf)
 
 ## ✏️ Wireframes & Prototyping (UI/UX Evidence)
 The development of the project was started with the high-fidelity prototyping that leads to an easy to use and visually attractive interface:
